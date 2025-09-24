@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+ShopKart-env/
+
+# Database file
+ShopKart.db
+
+# Uploads (if not needed in repo)
+uploads/
